@@ -8,7 +8,7 @@
 
   Digital Library is fully responsive Book Store website made using HTML, CSS, and JavaScript.
 
-  <a href="https://Gauravkr08.github.io/Digital-Library-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://Gauravkr08.github.io/file:///C:/Users/KIIT/OneDrive/Desktop/Digital%20Library%20website/Pages/book-detail.html"><strong>➥ Live Demo</strong></a>
 
 </div>
 
