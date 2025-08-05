@@ -1,7 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Gauravkr08/Digital Library-website)
-
   <br />
 
   <h2 align="center">Responsive BookStore Website</h2>
